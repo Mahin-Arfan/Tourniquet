@@ -1,0 +1,49 @@
+# ========== Unity Generated Folders ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecords/
+[Uu]nityCrashReports/
+[Pp]ackages/com.unity.burst@*
+[Pp]ackages/com.unity.*/
+
+# ========== IDE / Editor Files ==========
+.vs/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.user
+*.pidb
+*.suo
+*.tmp
+*.userprefs
+
+# ========== Builds ==========
+*.apk
+*.aab
+*.unitypackage
+Builds/
+[Bb]uilds/
+
+# ========== OS Files ==========
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# ========== Crash Dumps / Profiling ==========
+*.dmp
+*.stackdump
+*.profiler
+*.trace
+
+# ========== Optional (if you don’t want these pushed) ==========
+# Ignore recorded PlayMode tests and analytics data
+[Tt]estResults/
+[Aa]nalytics/
+
